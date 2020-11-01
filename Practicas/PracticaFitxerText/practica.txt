@@ -1,0 +1,13 @@
+
+Pràctica Fitxers de text
+
+
+
+
+	Un estudi d’una universitat anglesa suggereix que, de totes les lletres que composen una paraula, la primera i l’última son les més significatives. L’estudi diu que estant aquestes en la posició correcta, no importa l’ordre en que hi siguin la resta, ja que podrem llegir la paraula sense gaires problemes. Proveu de llegir el text que figura a continuació: 
+
+	“Sgeun un etsduio de una uivenrsdiad ignlsea, no ipmotra el odren en el que las 	ltears etsan ersciats, la uicna csoa ipormtnate es que la pmrirea y la utlima 		ltera esten ecsritas en la psiocion cocrrtea. El rsteo peuden estar ttaolmntee mal 	y aun pordas lerelo sin pobrleams. Etso es pquore no lemeos cada ltera por si 		msima preo la paalbra es un tdoo. Pesornamelnte me preace icrneilbe... “ 
+
+	Heu de fer un programa que faci el següent:
+
+Llegir un fitxer de text i obtenir-ne un altre amb la característica exemplificada 		anteriorment, és a dir, mantenint la primera i l’última lletra de cada paraula i 	barrejant les del mig. 

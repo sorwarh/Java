@@ -1,0 +1,13 @@
+ 
+Pàtricca Fxrites de text 
+ 
+ 
+ 
+ 
+	Un edutsi dn’ua usniievtrat asgnela sugireegx que, de ttoes les leerlts que ceoopmsn una prluaaa, la peirmra i lt’ilúma son les més seciivgntiiafs. Lsudte’i diu que etsant aseteuqs en la posciió ccreotra, no imorpta l’rdroe en que hi sigiun la retsa, ja que perodm lliegr la plraaua snsee gaiers pbleroems. Porveu de lliger el text que fgirua a cinountació: 
+ 
+Sugen un eiusdto de una uiaevdinrsd islenga, no ipmtora el oerdn en el que las leatrs eastn esatircs, la ucnia cosa imaprtotne es que la prirmea y la umtlia ltrea esten esticras en la poocisin ctrrocea. El rseto peedun etasr tntetalome mal 	y aun pdaors llreeo sin pmboerlas. Etso es pruoqe no loemes cada lreta por si mmsia pero la palraba es un todo. Patsoenmlenre me praece ilrncbiee... “ 
+ 
+Heu de fer un pgormraa que fcai el sgeeünt: 
+ 
+Lgiler un fxtier de text i onnitbr-ee un artle amb la cícrritaaectsa emidlxefiacpa aeirmtnroent, és a dir, mnnnaeitt la premira i l’tmilúa leltra de cdaa praluaa i baernrjat les del mig. 

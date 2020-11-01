@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<alumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="simple.xsd">
+ <nombre>juan</nombre>
+ <dni>28542345</dni>
+ <direccion>San José 2</direccion>
+ <edad>22</edad>
+ <telefono>959434523</telefono>
+</alumno>
+
